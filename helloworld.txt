@@ -4,3 +4,6 @@ ending
 
 <nabina>
 new changes
+
+
+after gitignore
