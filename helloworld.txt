@@ -7,3 +7,12 @@ new changes
 
 
 after gitignore
+
+<html>
+<head>
+<title>git class</title>
+<body>
+<h1> adding something new </h1>
+</body>
+</head>
+</html>
